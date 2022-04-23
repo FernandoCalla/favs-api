@@ -33,7 +33,7 @@ This api has private and public routes
 
 FavsAPI requires [Node.js](https://nodejs.org/) to run.
 Install the dependencies and devDependencies and start the server.
-For production environments...
+For DEVELOP environments...
 ```sh
 npm i
 npm run dev
